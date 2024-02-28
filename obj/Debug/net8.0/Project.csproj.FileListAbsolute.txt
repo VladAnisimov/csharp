@@ -1,0 +1,14 @@
+/Users/vladislav/Project/bin/Debug/net8.0/Project
+/Users/vladislav/Project/bin/Debug/net8.0/Project.deps.json
+/Users/vladislav/Project/bin/Debug/net8.0/Project.runtimeconfig.json
+/Users/vladislav/Project/bin/Debug/net8.0/Project.dll
+/Users/vladislav/Project/bin/Debug/net8.0/Project.pdb
+/Users/vladislav/Project/obj/Debug/net8.0/Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislav/Project/obj/Debug/net8.0/Project.AssemblyInfoInputs.cache
+/Users/vladislav/Project/obj/Debug/net8.0/Project.AssemblyInfo.cs
+/Users/vladislav/Project/obj/Debug/net8.0/Project.csproj.CoreCompileInputs.cache
+/Users/vladislav/Project/obj/Debug/net8.0/Project.dll
+/Users/vladislav/Project/obj/Debug/net8.0/refint/Project.dll
+/Users/vladislav/Project/obj/Debug/net8.0/Project.pdb
+/Users/vladislav/Project/obj/Debug/net8.0/Project.genruntimeconfig.cache
+/Users/vladislav/Project/obj/Debug/net8.0/ref/Project.dll
